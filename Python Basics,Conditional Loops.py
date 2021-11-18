@@ -16,8 +16,9 @@ j = []
 for u in range(2000,3200+1):
     #print(u)
     if u%7 == 0 and u%5!= 0:
-        print(u)
+        #print(u)
         j.append(u)
+        print(j)
         
         
         
